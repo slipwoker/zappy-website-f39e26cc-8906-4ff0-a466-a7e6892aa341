@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-06T16:49:09.223Z",
+  "generated_at": "2026-07-06T16:55:40.158Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "25304db0-5581-4663-b992-85f0ebf039a7",
+      "slug": "mlvn-sprdy-fq37di",
+      "name": "מלון ספרדי 🍈 ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מלון מתקתק טרי",
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": 20,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783356753611-kxodn3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mlvn-sprdy-fq37di",
+      "categories": [],
+      "updated_at": "2026-07-06T16:53:20.922Z"
+    }
+  ]
 }
