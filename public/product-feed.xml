@@ -4,13 +4,14 @@
     <title>הבוסתן של מטע</title>
     <link>https://example.com</link>
     <description>Product feed for הבוסתן של מטע</description>
-    <lastBuildDate>Mon, 06 Jul 2026 16:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:01:16 GMT</lastBuildDate>
     <item>
       <g:id>25304db0-5581-4663-b992-85f0ebf039a7</g:id>
       <g:title>מלון ספרדי 🍈 </g:title>
       <g:description>מלון מתקתק טרי</g:description>
-      <g:link>https://example.com/product/mlvn-sprdy-fq37di</g:link>
+      <g:link>https://example.com/product/mlvn-sprdy-rb8dd9</g:link>
       <g:image_link>https://example.com/assets/product-1783356753611-kxodn3.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783357127925-xja9rp.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>20.00 ILS</g:price>
       <g:condition>new</g:condition>

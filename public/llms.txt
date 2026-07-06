@@ -79,7 +79,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### מלון ספרדי 🍈 
-https://example.com/product/mlvn-sprdy-fq37di
+https://example.com/product/mlvn-sprdy-rb8dd9
 - Price: 20.00 ILS
 - Availability: In stock
 - Description: מלון מתקתק טרי
