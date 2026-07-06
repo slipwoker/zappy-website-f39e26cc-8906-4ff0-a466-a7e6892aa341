@@ -1,0 +1,105 @@
+# הבוסתן של מטע — Generative Engine Optimization Map
+
+> A hyper-local exotic fruit delivery service exclusively serving residents of Matan (מטע), offering a curated selection of special and exotic fruits delivered straight to their door. The brand has a vibrant tropical aesthetic — think lush jungle vibes, bold colors, and an adventurous, fresh atmosphere that celebrates rare and unique fruits. The exclusivity of being Matan-only adds a community-focused, boutique feel.
+
+---
+
+## Pages
+
+### בית
+https://-f39e26cc.zappy5.app
+שירות משלוחי פירות אקזוטיים נדירים לתושבי מטע בלבד. מבחר אורגני ומקומי שמגיע ישר לדלת. הצטרפו לחוויית טעם טרופית והזמינו עכשיו!
+
+### איך זה עובד
+https://-f39e26cc.zappy5.app/how-it-works
+שלושה צעדים פשוטים למשלוח פירות מיוחדים עד הבית במטע. בחירה קלה, משלוח מהיר וטריות מובטחת. ככה מביאים ג׳ונגל הביתה!
+
+### סיפור מקומי
+https://-f39e26cc.zappy5.app/local-story
+מהתשוקה לפרי הנדיר ועד לקהילה המקומית: הכירו את הסיפור שמאחורי הבוסתן של מטע. חיבור אמיתי לאדמה, לתושבים ולטעמים הכי נועזים שיש.
+
+### צור קשר
+https://-f39e26cc.zappy5.app/contact
+יש שאלה על משלוחי פירות אורגניים למטע? צרו קשר ונחזור אליכם עם כל הפרטים על המבחר הטרי והמיוחד שלנו. ההרפתקה מתחילה בהודעה אחת!
+
+### Products
+https://-f39e26cc.zappy5.app/products
+המוצרים שלנו - הבוסתן של מטע
+
+### Cart
+https://-f39e26cc.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-f39e26cc.zappy5.app/checkout
+תשלום
+
+### Login
+https://-f39e26cc.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-f39e26cc.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-f39e26cc.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-f39e26cc.zappy5.app/product/:slug
+פרטי המוצר - הבוסתן של מטע
+
+### Category
+https://-f39e26cc.zappy5.app/category/:slug
+מוצרים - הבוסתן של מטע
+
+### תודה שפניתם אלינו
+https://-f39e26cc.zappy5.app/thank-you
+הבוסתן של מטע - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f39e26cc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f39e26cc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f39e26cc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הבוסתן של מטע
+A hyper-local exotic fruit delivery service exclusively serving residents of Matan (מטע), offering a curated selection of special and exotic fruits delivered straight to their door. The brand has a vibrant tropical aesthetic — think lush jungle vibes, bold colors, and an adventurous, fresh atmosphere that celebrates rare and unique fruits. The exclusivity of being Matan-only adds a community-focused, boutique feel.
+
+## Target Audience
+- תושבי מטע בלבד
+- תושבי מטע
+- משפחות בריאות מודעות
+- צרכנים ידידותיים לסביבה
+
+## Industry
+Food Delivery / Fresh Produce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f39e26cc.zappy5.app/sitemap.xml
+- Robots: https://-f39e26cc.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f39e26cc.zappy5.app/llms-full.txt
+- Products (JSON): https://-f39e26cc.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-f39e26cc.zappy5.app/product-feed.xml
